@@ -1,2 +1,1 @@
-print ("bonjours")
-print("linge 2")
+print("page principale")
